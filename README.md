@@ -59,7 +59,7 @@ task-manager/
 ├── src/                 # Code source
 ├── tests/               # Tests PHPUnit et k6
 ├── cypress/             # Tests Cypress
-└── public/              # Fichiers HTML
+└── /              # Fichiers HTML
 ```
 
 ## Résolution des problèmes
